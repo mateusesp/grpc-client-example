@@ -13,7 +13,7 @@
 - Spring Boot Framework
 
 ---
-### Testing requests
+### Testing request
 Run the ```grpc-server-example``` and then run this client to see de response message,
 if the username and password is the same, server will return "SUCCESS", 
 if they are different values the server will return "FAILED".
